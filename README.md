@@ -1,6 +1,6 @@
 # Faculdade_Ciencia_da_Computacao
 
-Repositório Para Algumas Matérias Do Curso Ciência Da Computação:
+Repositório Para Algumas Matérias Do Curso Ciência Da Computação
 
 ## Bloco 1
 * [Lógica de Programação](https://github.com/douglasadones/Logica_de_Programacao.git)
