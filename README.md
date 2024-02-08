@@ -11,3 +11,4 @@ Repositório Para Algumas Matérias Do Curso Ciência Da Computação
 ## Bloco 3
 * [Programação 2](https://github.com/douglasadones/Programacao_II.git)
 * [Estrutura de Dados](https://github.com/douglasadones/estrutura-de-dados.git)
+* [Circuitos Digitais](https://github.com/douglasadones/circuitos-digitais.git)
